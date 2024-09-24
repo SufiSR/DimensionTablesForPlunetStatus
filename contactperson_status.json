@@ -1,0 +1,19 @@
+[
+  {
+      "Contact Status ID": 1,
+      "Contact Status": "Active",
+      "Contact Status Type": "Active"
+  }, {
+      "Contact Status ID": 2,
+      "Contact Status": "Not Active",
+      "Contact Status Type": "Inactive"
+  }, {
+      "Contact Status ID": 3,
+      "Contact Status": "Contacted",
+      "Contact Status Type": "Active"
+  }, {
+      "Contact Status ID": 4,
+      "Contact Status": "Deletion Requested",
+      "Contact Status Type": "Inactive"
+  }
+]

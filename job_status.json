@@ -1,0 +1,58 @@
+[{
+        "Job Status ID": 3,
+        "Job Status": "Approved",
+        "Job Status Type": "Production Finished"
+        }, {
+        "Job Status ID": 7,
+        "Job Status": "Assigned and Waiting",
+        "Job Status Type": "Active"
+        }, {
+        "Job Status ID": 4,
+        "Job Status": "Cancelled",
+        "Job Status Type": "Inactive"
+        }, {
+        "Job Status ID": 2,
+        "Job Status": "Delivered",
+        "Job Status Type": "Production Finished"
+        }, {
+        "Job Status ID": 0,
+        "Job Status": "In Preparation",
+        "Job Status Type": "Active"
+        }, {
+        "Job Status ID": 1,
+        "Job Status": "In Progress",
+        "Job Status Type": "Active"
+        }, {
+        "Job Status ID": 5,
+        "Job Status": "Invoice Accepted",
+        "Job Status Type": "Billing"
+        }, {
+        "Job Status ID": 9,
+        "Job Status": "Invoice Checked",
+        "Job Status Type": "Billing"
+        }, {
+        "Job Status ID": 10,
+        "Job Status": "Invoice Created",
+        "Job Status Type": "Billing"
+        }, {
+        "Job Status ID": 13,
+        "Job Status": "Overdue",
+        "Job Status Type": "Active"
+        }, {
+        "Job Status ID": 6,
+        "Job Status": "Paid",
+        "Job Status Type": "Inactive"
+        }, {
+        "Job Status ID": 8,
+        "Job Status": "Requested",
+        "Job Status Type": "Active"
+        }, {
+        "Job Status ID": 12,
+        "Job Status": "Transferred to Order",
+        "Job Status Type": "Inactive"
+        }, {
+        "Job Status ID": 11,
+        "Job Status": "Without Invoice",
+        "Job Status Type": "Inactive"
+        }
+]

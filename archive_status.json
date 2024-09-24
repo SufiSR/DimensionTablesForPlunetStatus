@@ -1,0 +1,27 @@
+[
+  {
+        "Archive Status ID": 1,
+        "Archive Status": "Active",
+        "Archive Status Type": "Active"
+    }, {
+        "Archive Status ID": 2,
+        "Archive Status": "Completed Archivable",
+        "Archive Status Type": "Inactive"
+    }, {
+        "Archive Status ID": 3,
+        "Archive Status": "Archived",
+        "Archive Status Type": "Inactive"
+    }, {
+        "Archive Status ID": 4,
+        "Archive Status": "Quote moved to Order",
+        "Archive Status Type": "Inactive"
+    }, {
+        "Archive Status ID": 5,
+        "Archive Status": "In Preparation",
+        "Archive Status Type": "Active"
+    }, {
+        "Archive Status ID": 6,
+        "Archive Status": "Completed",
+        "Archive Status Type": "Inactive"
+    }
+]

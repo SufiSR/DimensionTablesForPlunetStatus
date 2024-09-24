@@ -1,0 +1,43 @@
+[
+  {
+      "Resource Status ID": 1,
+      "Resource Status": "Active",
+      "Resource Status Type": "Active"
+  }, {
+      "Resource Status ID": 2,
+      "Resource Status": "Not Active",
+      "Resource Status Type": "Inactive"
+  }, {
+      "Resource Status ID": 3,
+      "Resource Status": "Blocked",
+      "Resource Status Type": "Inactive"
+  }, {
+      "Resource Status ID": 4,
+      "Resource Status": "New",
+      "Resource Status Type": "Inactive"
+  }, {
+      "Resource Status ID": 5,
+      "Resource Status": "Premium",
+      "Resource Status Type": "Active"
+  }, {
+      "Resource Status ID": 6,
+      "Resource Status": "New Auto",
+      "Resource Status Type": "Inactive"
+  }, {
+      "Resource Status ID": 7,
+      "Resource Status": "Probation",
+      "Resource Status Type": "Active"
+  }, {
+      "Resource Status ID": 8,
+      "Resource Status": "Qualified",
+      "Resource Status Type": "Active"
+  }, {
+      "Resource Status ID": 9,
+      "Resource Status": "Disqualified",
+      "Resource Status Type": "Inactive"
+  }, {
+      "Resource Status ID": 10,
+      "Resource Status": "Deletion Requested",
+      "Resource Status Type": "Inactive"
+  }
+]

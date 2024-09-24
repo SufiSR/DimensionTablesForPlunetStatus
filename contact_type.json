@@ -1,0 +1,12 @@
+[
+  {
+      "Contact Type Status ID": 1,
+      "Contact Type Status": "Customer"
+  }, {
+      "Contact Type Status ID": 2,
+      "Contact Type Status": "Resource"
+  }, {
+      "Contact Type Status ID": 3,
+      "Contact Type Status": "Miscellaneous"
+  }
+]

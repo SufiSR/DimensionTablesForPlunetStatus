@@ -1,0 +1,35 @@
+[
+  {
+      "Customer Status ID": 1,
+      "Customer Status": "Active",
+      "Customer Status Type": "Active"
+  }, {
+      "Customer Status ID": 2,
+      "Customer Status": "Not Active",
+      "Customer Status Type": "Inactive"
+  }, {
+      "Customer Status ID": 3,
+      "Customer Status": "Contacted",
+      "Customer Status Type": "Active"
+  }, {
+      "Customer Status ID": 4,
+      "Customer Status": "New",
+      "Customer Status Type": "Inactive"
+  }, {
+      "Customer Status ID": 5,
+      "Customer Status": "Blocked",
+      "Customer Status Type": "Inactive"
+  }, {
+      "Customer Status ID": 6,
+      "Customer Status": "Acquisition Address",
+      "Customer Status Type": "Inactive"
+  },  {
+      "Customer Status ID": 7,
+      "Customer Status": "New Auto",
+      "Customer Status Type": "Inactive"
+  }, {
+      "Customer Status ID": 8,
+      "Customer Status": "Deletion Requested",
+      "Customer Status Type": "Inactive"
+  }
+]

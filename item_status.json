@@ -1,0 +1,59 @@
+[
+        {
+        "Item Status ID": 12,
+        "Item Status": "Accepted",
+        "Item Status Type": "Active"
+        }, {
+        "Item Status ID": 3,
+        "Item Status": "Approved",
+        "Item Status Type": "Production Finished"
+        }, {
+        "Item Status ID": 5,
+        "Item Status": "Cancelled",
+        "Item Status Type": "Inactive"
+        }, {
+        "Item Status ID": 7,
+        "Item Status": "Deliverable",
+        "Item Status Type": "Production Finished"
+        }, {
+        "Item Status ID": 2,
+        "Item Status": "Delivered",
+        "Item Status Type": "Production Finished"
+        }, {
+        "Item Status ID": 8,
+        "Item Status": "In Preparation",
+        "Item Status Type": "Active"
+        }, {
+        "Item Status ID": 1,
+        "Item Status": "In Progress",
+        "Item Status Type": "Active"
+        }, {
+        "Item Status ID": 4,
+        "Item Status": "Invoiced",
+        "Item Status Type": "Billing"
+        }, {
+        "Item Status ID": 6,
+        "Item Status": "New Auto",
+        "Item Status Type": "Active"
+        }, {
+        "Item Status ID": 9,
+        "Item Status": "Paid",
+        "Item Status Type": "Inactive"
+        }, {
+        "Item Status ID": 11,
+        "Item Status": "Pending",
+        "Item Status Type": "Active"
+        }, {
+        "Item Status ID": 13,
+        "Item Status": "Rejected",
+        "Item Status Type": "Inactive"
+        }, {
+        "Item Status ID": 14,
+        "Item Status": "Sum",
+        "Item Status Type": "Inactive"
+        }, {
+        "Item Status ID": 10,
+        "Item Status": "Without Invoice",
+        "Item Status Type": "Inactive"
+        }
+]

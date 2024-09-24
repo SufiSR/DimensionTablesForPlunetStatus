@@ -1,0 +1,43 @@
+ [
+     {
+        "Quote Status ID": 1,
+        "Quote Status": "Pending",
+        "Quote Status Type": "Active"
+    }, {
+        "Quote Status ID": 2,
+        "Quote Status": "Revised",
+        "Quote Status Type": "Inactive"
+    }, {
+        "Quote Status ID": 3,
+        "Quote Status": "Rejected",
+        "Quote Status Type": "Inactive"
+    }, {
+        "Quote Status ID": 4,
+        "Quote Status": "Changed into Order",
+        "Quote Status Type": "Inactive"
+    }, {
+        "Quote Status ID": 5,
+        "Quote Status": "Cancelled",
+        "Quote Status Type": "Inactive"
+    }, {
+        "Quote Status ID": 6,
+        "Quote Status": "Expired",
+        "Quote Status Type": "Inactive"
+    }, {
+        "Quote Status ID": 7,
+        "Quote Status": "Accepted",
+        "Quote Status Type": "Active"
+    }, {
+        "Quote Status ID": 8,
+        "Quote Status": "New",
+        "Quote Status Type": "Active"
+    }, {
+        "Quote Status ID": 9,
+        "Quote Status": "In Preparation",
+        "Quote Status Type": "Active"
+    }, {
+        "Quote Status ID": 11,
+        "Quote Status": "Check Clearance",
+        "Quote Status Type": "Active"
+    }
+ ]
